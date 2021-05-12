@@ -27,7 +27,7 @@ const Conta = () => {
 
   return (
     <Box>
-      <h2>Conta</h2>
+      <h2>Conta 1234</h2>
       <div style={{ fontSize: "26px", padding: "20px 0" }}>
         Saldo disponível{" "}
         <span>
